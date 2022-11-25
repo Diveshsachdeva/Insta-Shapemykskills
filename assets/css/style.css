@@ -1,0 +1,154 @@
+body
+{
+    margin: 0;
+    background-color: rgb(223, 217, 217)
+}
+div
+{
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    
+}
+
+.img
+{
+    border-radius: 50%;
+    width: 170px;
+    height: 160px;
+    background-image: url(assets/images/shape\ my\ skills.png);
+    border-style: groove;
+    background-color: black ;
+    margin-top: 20px;
+    margin-left: 100px   ;
+    border: rgb(201, 201, 201) solid;
+    
+
+    
+}
+.p{
+    margin-left: 75px;
+    font-size: 30px;
+    font-weight: lighter;
+    
+}
+.button
+{
+    
+    font-size: 15px;
+    margin-left: 10px;
+    border-radius: 7px;
+    background-color: rgb(238, 237, 236);
+    color: white;
+    border:rgb(218, 216, 216) solid;
+    height: 40px;
+    width: 100px;
+    text-align: center;
+}
+.a
+{
+    text-decoration: none;
+
+    font-size: 35px;
+}
+.h2
+{
+
+    font-weight: lighter;
+    margin-left: 350px;
+}
+.div2
+{
+    margin-right: 500px;
+}
+.p1
+{
+    margin-left:350px;
+        font-size: 20px;
+
+}
+.p2
+{
+    margin-left:350px;
+    font-size: 20px;
+    font-weight: bolder
+}
+.p3
+{
+    margin-left:350px;
+    font-size: 20px;
+    color: rgb(124, 124, 121);
+}
+.p4
+{
+    margin-left: 350px;
+    font-size: 20px;
+}
+.a1{
+    margin-left: 350px;
+    text-decoration: none;
+    font-size: px;
+}
+
+span
+{
+    font-size: 22px;
+    font-weight: bold;
+    
+}
+.img1
+{
+    border-radius: 50%;
+    width: 100px;
+    height: 100px;
+    background-image: url(assets/images/shape\ my\ skills.png);
+    border-style: groove;
+    background-color: black ;
+    margin-left: 120px   ;
+    border: rgb(201, 201, 201) solid;
+    margin-top: 20px;
+    }
+
+    .h5
+    {
+            font-weight: lighter;
+            margin-left: 140px;
+            word-spacing: 148px;
+            font-size: 18px;
+    }
+    
+ .img4
+{
+    margin-left: 100px;
+    height: 300px;
+    width: 300px;
+    border-style:groove;
+}
+.img5
+{
+    height: 300px;
+    width: 300px;
+    margin-left: 80px;
+    border-style:groove;
+}
+.img6
+{
+    height: 300px;
+    width: 300px;
+    margin-left: 92px;
+    border-style:groove;
+    margin-top: 20px;
+}
+.a2{
+    text-decoration: none;
+    color: black;
+    margin-left: 500px;
+    word-spacing: 120px;
+    font-weight: bold;
+    margin-top: 50px;
+}
+    
+
+    
+
+
